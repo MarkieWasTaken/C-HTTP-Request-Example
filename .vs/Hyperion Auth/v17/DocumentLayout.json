@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\IMPORTANT\\HYPERION CHEATS\\AUTH\\Ghostware Auth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A39E4C9-091C-474B-B0FB-A908C7A15916}|Ghostware Auth\\Ghostware Auth.vcxproj|C:\\Users\\Administrator\\Desktop\\IMPORTANT\\HYPERION CHEATS\\AUTH\\Ghostware Auth\\Ghostware Auth\\Ghostware Auth.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A39E4C9-091C-474B-B0FB-A908C7A15916}|Ghostware Auth\\Ghostware Auth.vcxproj|solutionrelative:Ghostware Auth\\Ghostware Auth.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ghostware Auth.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\IMPORTANT\\HYPERION CHEATS\\AUTH\\Ghostware Auth\\Ghostware Auth\\Ghostware Auth.cpp",
+              "RelativeDocumentMoniker": "Ghostware Auth\\Ghostware Auth.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\IMPORTANT\\HYPERION CHEATS\\AUTH\\Ghostware Auth\\Ghostware Auth\\Ghostware Auth.cpp",
+              "RelativeToolTip": "Ghostware Auth\\Ghostware Auth.cpp",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAHAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-06T21:29:39.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
